@@ -1,7 +1,7 @@
 ### Hello! ✨
 ---
 I am an artist & developer with a university background in music technologies & algorithmic composition.
-My love for code comes from the ways it can build meaningful human connections, creativity and compassion.
+My love for code comes from the ways it can build tools for meaningful human connection, creativity and compassion.
 
 #### _Languages of Focus_
 - Rust: I am currently learning Rust and building my first project (a simple realtime audio analysis tool that I might ship to VST).
