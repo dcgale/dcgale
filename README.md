@@ -1,6 +1,6 @@
 ### Hello! ✨
 ---
-I am an artist & developer with a background in music technologies & algorithmic composition. I am a graduate of Concordia University. 
+I am an artist & developer with a university background in music technologies & algorithmic composition.
 My love for code comes from the ways it can build meaningful human connections, creativity and compassion.
 
 #### _Languages of Focus_
