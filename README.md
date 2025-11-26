@@ -1,17 +1,21 @@
 ### Hello! ✨
 ---
-I am an artist & developer with a university background in music technologies & algorithmic composition.
-My love for code comes from the ways it can build tools for meaningful human connection, creativity and compassion.
+I am an artist & developer with a degree in music technologies & algorithmic composition.
+My love for code comes from the ways it can build tools and provide opportunities for creativity and meaningful human connection.
 
 #### _Languages of Focus_
 - Rust: I am currently learning Rust and building my first project (a simple realtime audio analysis tool that I might ship to VST).
-- Python: The language I know the most.  
-- Max: The other (visual) language I have been using the longest. By proxy of its APIs, Max has also taught me some JS and C over the years.  
+- Python: The language I know with the most proficiency.
+
+###### Use-case specific: 
+- Max: The programming language I have been using the longest.
+  By proxy of its APIs, Max has also taught me some vanilla JS and C over the years.
+- Faust: A wonderful high-level language and S2S compiler for specific DSP applications.
 
 #### _Interests_
-- UI & UX design
 - DSP & real-time data
 - machine learning & ops
+- UI & UX design
 - open source software 
 
 
