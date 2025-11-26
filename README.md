@@ -1,5 +1,5 @@
-### Hello! ✨
----
+Hello!
+
 I am an artist & developer with a degree in music technologies & algorithmic composition.
 My love for code comes from the ways it can build tools and provide opportunities for creativity and meaningful human connection.
 
