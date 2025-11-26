@@ -1,7 +1,7 @@
 Hello!
 
 I am an artist & developer with a degree in music technologies & algorithmic composition.
-My love for code comes from the ways it can build tools and provide opportunities for creativity and meaningful human connection.
+My love for code comes from the ways it can build tools to extend creativity and art-making.
 
 #### _Languages of Focus_
 - Rust: I am currently learning Rust and building my first project (a simple realtime audio analysis tool that I might ship to VST).
