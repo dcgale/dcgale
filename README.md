@@ -16,7 +16,6 @@ My love for code comes from the ways it can build tools to extend creativity and
 - DSP & real-time data
 - machine learning & ops
 - UI & UX design
-- open source software 
 
 
 
