@@ -1,19 +1,18 @@
 Hello!
 
-I am an artist & developer with a degree in music technologies & algorithmic composition.
+I am an artist & developer with a degree in music technologies & algorithmic composition. I love working with real-time data. 
 My love for code comes from the ways it can build tools to extend creativity and art-making.
 
 #### _Languages of Focus_
-- Rust: I am currently learning Rust and building my first project (a simple realtime audio analysis tool that I might ship to VST).
-- Python: The language I know with the most proficiency.
+- Rust: I am currently learning Rust and building my first project (a real-time audio analyzer/classifier tool that I will eventually ship to VST).
+- Python: The language I know with the most proficiency.  
 
 ###### Use-case specific: 
-- Max: The programming language I have been using the longest.
-  By proxy of its APIs, Max has also taught me some vanilla JS and C over the years.
+- Max: The programming language I have been using the longest. By proxy of its APIs, Max has also taught me some JS and C over the years.
 - Faust: A wonderful high-level language and S2S compiler for specific DSP applications.
 
 #### _Interests_
-- DSP & real-time data
+- DSP & time-series data
 - machine learning & ops
 - UI & UX design
 
