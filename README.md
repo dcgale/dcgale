@@ -1,23 +1,12 @@
 Hello!
 
-I am an artist & developer with a degree in music technologies & algorithmic composition. I love working with real-time data. 
-My love for code comes from the ways it can build tools to extend creativity and art-making.
+I am a developer and artist with a degree in music technologies & algorithmic composition. I especially love working with real-time data and audio. 
 
-#### _Languages of Focus_
-- Rust: I am currently learning Rust and building my first project (a real-time audio analyzer/classifier tool that I will eventually ship to VST).
-- Python: The language I know with the most proficiency.  
+###### _currently working on..._ 
 
-###### Use-case specific: 
-- Max: The programming language I have been using the longest. By proxy of its APIs, Max has also taught me some JS and C over the years.
-- Faust: A wonderful high-level language and S2S compiler for specific DSP applications.
+- A standalone real-time audio analyzer application powered by machine learning. The stack includes a Python microservice inside a Rust wrapper, which is notable for me as it is my first major project using Rust. It is currently under heavy development. 
 
-#### _Interests_
-- DSP & time-series data
-- machine learning & ops
-- UI & UX design
-
-
-
+- A research-creation project in collaboration with Max Worgan (University of Sussex) and his Strange Pulse Toolkit, a library for the Max/MSP software language.
 
 
 <!--
