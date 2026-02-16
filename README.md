@@ -8,6 +8,7 @@ I am a developer and artist with a degree in music technologies & algorithmic co
 
 - A research-creation project in collaboration with Max Worgan (University of Sussex) and his Strange Pulse Toolkit, a library for the Max/MSP software language.
 
+✨✨✨
 
 <!--
 **dcgale/dcgale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
