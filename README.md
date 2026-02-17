@@ -2,7 +2,7 @@
 
 I am a developer and artist with a degree in music technologies & algorithmic composition. I especially love working with real-time data and audio. 
 
-###### _currently working on..._ 
+###### _I am currently working on..._ 
 
 - A standalone real-time audio analyzer application powered by machine learning. The stack includes a Python microservice inside a Rust wrapper, which is notable for me as it is my first major project using Rust. It is currently under heavy development. 
 
