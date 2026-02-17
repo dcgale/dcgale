@@ -1,4 +1,4 @@
-###### _hello / bonjour!_
+###### _Hello / bonjour!_
 
 I am a developer and artist with a degree in music technologies & algorithmic composition. I especially love working with real-time data, audio, and machine learning. 
 
