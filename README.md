@@ -4,11 +4,9 @@ I am a developer and artist with a degree in music technologies & algorithmic co
 
 ###### _I am currently working on..._ 
 
-- A standalone real-time audio analyzer application. The stack includes a Python microservice for the ML inference inside a Rust wrapper. </break>
-The project is motivated by my gradual adoption of lower-level programming languages for real-time signal processing, exploring IPC architectures and desire to unify personal creative goals with technical data science approaches.
-
-- A research-creation project in collaboration with Max Worgan (University of Sussex) and his Strange Pulse Toolkit, a library for the Max/MSP software language. </break>
-  The project is motivated by adapting the complexity of Max's research into something consistent with my own personal artistic goals and vision.
+- A standalone application for real-time audio inference. The stack includes a Python microservice for the ML runtime inside a Rust wrapper. The project is motivated by my gradual adoption of lower-level programming languages for real-time signal processing, exploring IPC architectures and desire to unify personal creative goals with technical data science approaches.
+ 
+- A research-creation project in collaboration with Max Worgan (University of Sussex) and his Strange Pulse Toolkit, a library for the Max/MSP software language. The project is motivated by adapting the complexity of Max's research into something consistent with my own personal artistic goals and vision.
 
 ✨✨✨
 
