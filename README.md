@@ -4,7 +4,7 @@ I am a developer and artist with a background in music technologies & algorithmi
 
 ###### _I am currently working on..._ 
 
-- A full, updated rewrite of my first machine learning project, a 2-lead ECG decoder (classifier). 
+- A fully rewritten update of my first machine learning project, a 2-lead ECG decoder (classifier). 
 
 - A sound database querying tool for technicians and composers, allowing the user to separate, organise and compose using specific user input prompts (spectrum, HPSS, pitch, etc.).
 <!-- - A standalone application for real-time audio inference. The stack includes a Python microservice for the ML runtime inside a Rust wrapper. The project is motivated by my gradual adoption of lower-level programming languages for real-time signal processing, exploring IPC architectures and desire to unify personal creative goals with technical data science approaches. Currently backgrounded as I slowly work through the Rust book. -->
