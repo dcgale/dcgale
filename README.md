@@ -1,6 +1,7 @@
 ###### _Hello / bonjour!_ ✨
 
-I am a developer with a background in music composition, media arts, and data science.<br>
+I am a developer with a background in music composition and data science.
+
 I am actively interested in audio, machine learning, data engineering and analysis, especially within multidisciplinary eco-social contexts. 
 
 <!-- 
