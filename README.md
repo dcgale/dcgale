@@ -1,8 +1,8 @@
 ###### *Hello / bonjour!* ✨
 
-I am a developer and artist with a background in music composition and data science.
+I am a developer and artist with a background in music composition, sound art and data science.
 
-My interests lie at the intersection of audio, data science and systems engineering, with a growing focus on human-centred design.
+My programming interests lie at the intersection of audio, data science and systems engineering, with a growing focus on human-centred design and infrastructure.
 
 <!-- 
 ###### _I am currently working on..._ 
