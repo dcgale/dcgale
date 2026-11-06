@@ -2,7 +2,7 @@
 
 I am a developer and artist with a background in music composition, sound art and data science.
 
-My programming interests lie at the intersection of audio, data and machine learning, with a growing focus on human-centred design and systems programming.
+My programming interests lie at the intersection of audio, data and machine learning, with a growing focus on creative applications of human-centred design systems. 
 
 <!-- 
 ###### _I am currently working on..._ 
